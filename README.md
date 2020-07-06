@@ -6,7 +6,7 @@ and how cryptocurrencies could be grouped toward creating a classification for d
 investment product. 
 
 ## Software
-Python, sklearn, K-means algorithm, PCA algorithm
+Python, sklearn, K-means algorithm, PCA algorithm, Pandas, hvplot, plotly
 
 ## Summary
 - Since there was no known output for what we are looking for, unsupervised learning has been used. 
@@ -33,3 +33,5 @@ Python, sklearn, K-means algorithm, PCA algorithm
 ### 2D-scatter plot with x="TotalCoinsMined" and y="TotalCoinSupply"
 
 ![alt text](Images/2D_scatter_crypto.png)
+
+- From 2D-scatter plot, it can be seen that their are some outliers like "BitTorrent" and "TurtleCoin"
