@@ -6,7 +6,7 @@ and how cryptocurrencies could be grouped toward creating a classification for d
 investment product. 
 
 ## Software
-Python, K-means algorithm
+Python, sklearn, K-means algorithm, PCA algorithm
 
 ## Summary
 - Since there was no known output for what we are looking for, unsupervised learning has been used. 
