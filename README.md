@@ -1,11 +1,15 @@
-# Cryptocurrencies
+# Cryptocurrencies Analysis
 
 ## Project Overview
 In this project, an analysis has been done to find out what cryptocurrencies are on the trading market
 and how cryptocurrencies could be grouped toward creating a classification for developing a new 
 investment product. 
 
-Since there was no known output for what we are looking for, unsupervised learning has been used. 
+## Software
+Python, K-means algorithm
+
+## Summary
+- Since there was no known output for what we are looking for, unsupervised learning has been used. 
 
 - The Cryptocurrencies data given was not ideal, so it was preprocessed and scaled to fit the machine learning
 	 model. 
