@@ -34,4 +34,4 @@ Python, sklearn, K-means algorithm, PCA algorithm, Pandas, hvplot, plotly
 
 ![alt text](Images/2D_scatter_crypto.png)
 
-- From 2D-scatter plot, it can be seen that their are some outliers like "BitTorrent" and "TurtleCoin"
+- From 2D-scatter plot, it can be seen that there are some outliers like "BitTorrent" and "TurtleCoin"
