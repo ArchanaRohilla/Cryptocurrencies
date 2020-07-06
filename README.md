@@ -15,7 +15,7 @@ Python, K-means algorithm
 
 - The data dimensions were reduced to three principal components using PCA algorithm from sklearn.
 
-![alt text](Images/pca_table.png)
+		![alt text](Images/pca_table.png)
 
 - Clusters of Cryptocurrencies data were predicted by plotting the elbow curve to find the best value for K 
 	using KMeans algorithm. By looking at the elbow curve, the best K value was found 4. The model was initialized 
@@ -25,3 +25,7 @@ Python, K-means algorithm
 
 - Data-Table, 3D-scatter and 2D-scatter plots have been used to show the status of the current tradable 
 	cryptocurrencies with all the relevant informations.
+
+![alt text](Images/3D_scatter_crypto.png)
+
+![alt text](Images/2D_scatter_crypto.png)
