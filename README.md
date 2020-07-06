@@ -26,7 +26,10 @@ Python, K-means algorithm
 - Data-Table, 3D-scatter and 2D-scatter plots have been used to show the status of the current tradable 
 	cryptocurrencies with all the relevant informations.
 
-### 3D-scatter with x="PC 1", y="PC 2" and z="PC 3"
+### 3D-scatter plot with x="PC 1", y="PC 2" and z="PC 3"
+
 ![alt text](Images/3D_scatter_crypto.png)
+
+### 2D-scatter plot with x="TotalCoinsMined" and y="TotalCoinSupply"
 
 ![alt text](Images/2D_scatter_crypto.png)
