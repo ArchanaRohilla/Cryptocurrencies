@@ -5,7 +5,7 @@ In this project, an analysis has been done to find out what cryptocurrencies are
 and how cryptocurrencies could be grouped toward creating a classification for developing a new 
 investment product. 
 
-## Software
+## Tools
 Python, sklearn, K-means algorithm, PCA algorithm, Pandas, hvplot, plotly
 
 ## Summary
